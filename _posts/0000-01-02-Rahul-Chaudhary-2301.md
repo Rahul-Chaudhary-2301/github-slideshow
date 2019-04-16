@@ -2,5 +2,7 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+#My Heading
+>I am using Mardown
+>I am edting this file
 Use the left arrow to go back!
